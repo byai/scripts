@@ -1,0 +1,21 @@
+{
+  "name": "byfe-scripts",
+  "version": "0.0.2",
+  "description": "命令行脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byai/scripts"
+  },
+  "bugs": {
+    "url": "https://github.com/byai/scripts/issues"
+  },
+  "bin": {
+    "bs-icon-dart": "./lib/transferIconCssToDart.js"
+  },
+  "author": "允南 <hydentan@foxmail.com>",
+  "license": "ISC"
+}

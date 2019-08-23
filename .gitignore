@@ -1,0 +1,2 @@
+## 排除NodeJs的加载模块
+**/node_modules
