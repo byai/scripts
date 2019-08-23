@@ -21,16 +21,16 @@ bs-icon-dart css文件路径 [导出dart的路径]
 ### 使用
 
 ```shell
-bs-icon-dart ./iconfont.css ./test.dart
+bs-icon-dart http://at.alicdn.com/t/font_1147625_d6nqb83uorg.css ./test.dart
 ```
 
 ### 输出
 
 test.dart
 
-```dart()
-const Icons = {
-    'icon-arrow': 0xe697,
+```dart
+class Icons {
+    static icon_arrow = 0xe697;
     // ...
 }
 ```
