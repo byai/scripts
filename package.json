@@ -1,6 +1,6 @@
 {
   "name": "byfe-scripts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "命令行脚本",
   "main": "index.js",
   "scripts": {
