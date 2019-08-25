@@ -30,7 +30,7 @@ test.dart
 
 ```dart
 class Icons {
-    static icon_arrow = 0xe697;
+    static arrow = 0xe697;
     // ...
 }
 ```
